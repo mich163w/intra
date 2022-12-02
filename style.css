@@ -1,0 +1,251 @@
+/*
+Theme Name: BuddyX Child
+Theme URI: https://wbcomdesigns.com/downloads/buddyx-theme/
+Template: buddyx
+Author: Alberte, Mariam og Michele
+Author URI: https://github.com/vapvarun/buddyx
+Description: Intra side for Henriette Hørlücks Skole
+Tags: one-column,two-columns,left-sidebar,right-sidebar,footer-widgets,blog,translation-ready,buddypress,custom-colors,featured-images,full-width-template,theme-options,e-commerce
+Version: 4.4.4.1669290012
+Updated: 2022-11-24 11:40:12
+
+*/
+.custom-logo-link {
+    width: 40px;
+}
+
+.spbtbl-style th {
+    background: #95A689 !important;
+}
+.entry-content>*, .entry-summary>*, .page-content>* {
+    border-radius: 8px;
+}
+.hey {
+    background-color: aqua !important;
+    height: 100px!important;
+
+}
+
+.site-sub-header, .site-sub-header .entry-header .entry-title, .site-sub-header .page-header .page-title, .site-sub-header .entry-header, .site-sub-header .page-header, .site-sub-header .entry-title, .site-sub-header .page-title {
+    color: #000000;
+    background-color: transparent !important;
+}
+
+.buddypress-wrap .grid-filters a {
+    color: #95a689;
+}
+
+.buddypress-wrap .grid-filters a.active {
+    color: #95a689;
+}
+
+.buddypress-wrap .grid.bp-list>li .list-wrap {
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede;
+}
+
+.buddypress-wrap .subnav-filters .bp-search, .buddypress-wrap .subnav-filters .dir-search, .buddypress-wrap .subnav-filters .feed, .buddypress-wrap .subnav-filters .group-act-search, .buddypress-wrap .subnav-filters .group-invites-search, .buddypress-wrap .subnav-filters .subnav-search, .buddypress-wrap .subnav-filters .subnav-search form, .buddypress-wrap .subnav-filters .user-messages-bulk-actions, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results, #bbpress-forums ul.bbp-topics {
+
+    border-radius: 8px; 
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede;
+}
+
+.activity-update-form:not(.modal-popup) #whats-new-form {
+    background-color: #95a6894d;
+    box-shadow: 5px 0 10px #dedede;
+}
+.activity-update-form .activity-form:not(.focus-in) #whats-new, .activity-update-form .activity-form:not(.focus-in) #whats-new-form #whats-new-toolbar, .activity-update-form .activity-form:not(.focus-in) #whats-new:before, .bp-nouveau-activity-form-placeholder- .activity-form:not(.focus-in) #whats-new, .bp-nouveau-activity-form-placeholder- .activity-form:not(.focus-in) #whats-new-form #whats-new-toolbar, .bp-nouveau-activity-form-placeholder- .activity-form:not(.focus-in) #whats-new:before {
+    color:#2c5124;
+}
+.spbtbl-fullwidth, .spbtbl-fullwidth table {
+
+    border-radius: 8px;
+}
+.activity-list.bp-list li:first-child {
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede;
+}
+
+.activity-list li.bbp_reply_create .bb-content-inr-wrap, .activity-list li.bbp_topic_create .bb-content-inr-wrap, .activity-list li.bbp_reply_create .activity-content .activity-inner .activity-discussion-title-wrap, .activity-list li.bbp_topic_create .activity-content .activity-inner .activity-discussion-title-wrap, .activity-list .activity-item .bp-generic-meta.action,
+#bbpress-forums div.bbp-forum-header, #bbpress-forums div.bbp-reply-header, #bbpress-forums div.bbp-topic-header, #bbpress-forums div.odd, #bbpress-forums fieldset.bbp-form, #bbpress-forums li.bbp-header, #bbpress-forums ul.odd, .widgetable .bbp-logged-in, .widgetable .bbp-login-form {
+    background-color: #f4f4f4;
+}
+
+
+.activity-list .activity-item.mini, .buddypress-wrap .activity-comments .acomment-content .rtmedia-activity-text, .buddypress-wrap .activity-comments .acomment-content p, .buddypress-wrap .activity-comments .acomment-meta {
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede;
+}
+.activity-list.bp-list .activity-item {
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede;
+}
+
+.activity-list .activity-item .activity-avatar img.avatar {
+    border-radius: 50%;
+}
+
+.activity-update-form #whats-new-avatar img {
+    border-radius: 50%;
+}
+
+.tml .tml-field-wrap {
+    margin-bottom: 1em;
+    width: 450px;
+}
+
+#bbpress-forums div.odd, #bbpress-forums ul.odd {
+    background:  #f4f4f4!important;
+}
+
+#buddypress #item-header-cover-image #item-header-avatar img.avatar {
+
+    border-radius: 50%;
+}
+
+#bbpress-forums fieldset.bbp-form {
+    background-color: #f4f4f4;
+    box-shadow: 5px 0 10px #dedede; 
+
+}
+.item-header-cover-image-wrapper {
+    background: #f4f4f4 !important;
+    box-shadow: 5px 0 10px #dedede; 
+    border: none;
+    border-radius: 8px;
+}
+
+.buddypress-wrap .single-screen-navs {
+    background: #f4f4f4 !important;
+    box-shadow: 5px 0 10px #dedede; 
+    border: none;
+    border-radius: 8px;
+}
+.buddypress-wrap .item-body { 
+    background: #f4f4f4!important;
+    box-shadow: 5px 0 10px #dedede; 
+    border: none;
+    border-radius: 8px;
+}
+.buddypress-wrap .subnav-filters .bp-search, .buddypress-wrap .subnav-filters .dir-search, .buddypress-wrap .subnav-filters .feed, .buddypress-wrap .subnav-filters .group-act-search, .buddypress-wrap .subnav-filters .group-invites-search, .buddypress-wrap .subnav-filters .subnav-search, .buddypress-wrap .subnav-filters .subnav-search form, .buddypress-wrap .subnav-filters .user-messages-bulk-actions, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results, #bbpress-forums ul.bbp-topics,
+.buddypress-wrap .media_search.media_search, .buddypress-wrap form.bp-dir-search-form, .buddypress-wrap form.bp-invites-search-form, .buddypress-wrap form.bp-messages-search-form, .buddypress-wrap ul.subnav  {
+    background:  #f4f4f4!important;
+    box-shadow: 5px 0 10px #dedede; 
+    border: none;
+    border-radius: 10px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+}
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-header--has-event-search .tribe-events-c-events-bar {
+   background:  #f4f4f4!important;
+    color: #f4f4f4;
+    border: 2px solid #f4f4f4;
+}
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-c-search__input-group {
+    background:  #f4f4f4!important;
+    color: #f4f4f4;
+    border: 2px solid #f4f4f4;
+    
+}
+.tribe-common--breakpoint-medium.tribe-common .tribe-common-c-btn-border, .tribe-common--breakpoint-medium.tribe-common a.tribe-common-c-btn-border {
+    background:  #f4f4f4!important;
+    color: #f4f4f4;
+    border: 2px solid #f4f4f4;
+}
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector--labels .tribe-events-c-view-selector__content {
+    background:  #f4f4f4!important;
+    color: #f4f4f4;
+    border: 2px solid #f4f4f4;
+
+}
+#bbpress-forums div.odd, #bbpress-forums ul.odd {
+    background: #95a6894d!important;
+
+}
+.buddypress-wrap .subnav-filters .bp-search, .buddypress-wrap .subnav-filters .dir-search, .buddypress-wrap .subnav-filters .feed, .buddypress-wrap .subnav-filters .group-act-search, .buddypress-wrap .subnav-filters .group-invites-search, .buddypress-wrap .subnav-filters .subnav-search, .buddypress-wrap .subnav-filters .subnav-search form, .buddypress-wrap .subnav-filters .user-messages-bulk-actions, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results, #bbpress-forums ul.bbp-topics, .buddypress-wrap .media_search.media_search, .buddypress-wrap form.bp-dir-search-form, .buddypress-wrap form.bp-invites-search-form, .buddypress-wrap form.bp-messages-search-form, .buddypress-wrap ul.subnav {
+    background: #f4f4f4!important;
+    box-shadow: 5px 0 10px #dedede;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.tribe-events .tribe-events-c-events-bar__search-form {
+    background:  #f4f4f4!important;
+    color: #f4f4f4;
+    border: 2px solid #f4f4f4;
+    box-shadow: 5px 0 10px #dedede; 
+    border-radius: 8px;
+    margin: 15px;
+}
+.site-wrapper_1 {
+    display: flex;
+    flex-direction: column;
+}
+.container_1 {
+    display: flex;
+    flex-direction: row;
+}
+.image {
+    height: 20px;
+    padding-right: 10px;
+}
+
+.overskrift_intra {
+    margin-top: 20px;
+}
+    @media screen and (max-width: 600px) {
+    .buddypress-wrap .members-list.grid.bp-list>li .item-avatar img.avatar {
+        max-width: 70px;
+    }
+
+    .buddypress-wrap .grid.bp-list>li .list-title {
+        font-size: 15px;
+    }
+    .buddypress-wrap .grid.bp-list>li .item .last-activity {
+        font-size: 10px;
+    }
+    .site .site-sub-header .entry-title, .site .site-sub-header .page-title {
+        font-size: 20px;
+    }
+    .buddyx-trail-items, .buddyx-trail-items li {
+        font-size: 10px;
+    }
+    .buddypress-wrap:not(.bp-single-vert-nav) .main-navs>ul>li>a {
+        font-size: 10px;
+    }
+    #buddypress #dir-activity-search, #buddypress #dir-groups-search, #buddypress #dir-members-search, #buddypress #group-activity-search {
+        font-size: 10px;
+    }
+    .buddyx-mobile-user .my-account-link a {
+        color: #d8d8d8;
+    }
+    .mobile-menu-heading {
+        background-color: #95a689;
+    }
+    .buddyx-mobile-user .user-wrap .avatar {
+        border-radius: 50%;
+        box-shadow: 5px 0 10px #dedede; 
+    }
+    .mobile-menu-heading .menu-title {
+
+        font-size: 20px;
+       
+    }
+    .item-header-cover-image-wrapper {
+        position: relative;
+        background: #fff;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        padding: 1em;
+        border-radius: var(--global-border-radius)!important;
+        border: 1px solid var(--global-border-color);
+        z-index: 1;
+        margin: -287px 0 0;
+    }
+}
